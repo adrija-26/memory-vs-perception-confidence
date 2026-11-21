@@ -22,7 +22,7 @@ perceiving, even at the same difficulty?
 
 _Written before looking at any data:_
 
-> I'm __% sure that ____.
+> I'm 75% sure that, at the same difficulty, memory is more overconfident than perception, because memory reconstruction alters the original memory to create a full picture of the world.
 
 ## The model (plan)
 

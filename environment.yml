@@ -1,0 +1,16 @@
+name: memory-vs-perception-confidence
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - jupyterlab
+  - ipykernel
+  # Bayesian / hierarchical modelling (we'll decide in Phase 4 which one to use)
+  - pymc
+  - arviz
